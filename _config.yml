@@ -18,10 +18,7 @@ subtitle: Lyricist-Librettist | Director | Actor
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Cas Li's official website.
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
-search: true
 
 # Build settings
 markdown: kramdown
@@ -56,20 +53,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# footer:
-#   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
-    # - label: "Email"
-    #   url:
-
 defaults:
   # _posts
   - scope:
@@ -87,10 +70,3 @@ defaults:
       type: pages
     values:
       layout: single
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/

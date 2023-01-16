@@ -3,5 +3,32 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-author_profile: true
+title: "Hi, I'm Cas!"
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/cory_sf.JPG
+    actions:
+      - label: "About"
+        url: "https://casli.net/about/"
+excerpt: "I'm a musical theatre librettist-lyricist, director, actor, and writer based in the Boston area. <br> <br>"
+intro: 
+  - excerpt: "Here are some projects I've been working on!"
+feature_row:
+  - image_path: /assets/images/while_true.png
+    alt: "while True graphic"
+    title: "while True: A New Musical"
+    excerpt: "Writing book, lyrics, and music; in progress since Fall 2022!"
+  - image_path: /assets/images/iscariot_graphic.jpg
+    alt: "ISCARIOT graphic"
+    title: "ISCARIOT: THE MUSICAL"
+    excerpt: "Directed in Fall 2022 at Harvard's Agassiz Theatre"
+  - image_path: /assets/images/52!_graphic.jpeg
+    alt: "52! graphic"
+    title: "52!: A Statistics Cabaret"
+    excerpt: "Directed and wrote the book for in Spring 2022 at Harvard's Loeb Experimental Theatre."
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

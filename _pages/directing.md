@@ -1,0 +1,4 @@
+---
+permalink: /directing/
+title: "Directing"
+---

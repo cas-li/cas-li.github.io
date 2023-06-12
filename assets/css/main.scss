@@ -8,5 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-a {text-decoration: none; color: #3d4144; }
-a:visited {color: #3d4144; }
+.feature__item {
+    a {text-decoration: none; color: #3d4144; }
+    a:visited {color: #3d4144; } 
+}

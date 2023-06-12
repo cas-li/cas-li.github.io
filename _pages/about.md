@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Cas Li is an Asian-American lyricist, librettist, director, actor, and writer based in the Greater Boston area. Currently historian and vice-president emeritus of Harvard’s nationally-recognized Asian Student Arts Project (ASAP), Cas is a rising junior at Harvard College studying a joint concentration in Computer Science and Theatre, Dance & Media.
+Cas Li is an Asian-American lyricist, librettist, composer, director, actor, and writer based in the Greater Boston area. Currently historian and vice-president emeritus of Harvard’s nationally-recognized Asian Student Arts Project (ASAP), Cas is a rising junior at Harvard College studying a joint concentration in Computer Science and Theatre, Dance & Media.
 
 Cas' upcoming project is directing a pan-Asian and Latine production of Footloose jointly sponsored by ASAP and sister organization TEATRO! this fall at the Agassiz Theater, interrogating Ren's diasporic journey and themes of intergenerational trauma present in Bomont's tight-knit, almost familial community.
 

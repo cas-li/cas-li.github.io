@@ -2,3 +2,4 @@
 permalink: /directing/
 title: "Directing"
 ---
+

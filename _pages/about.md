@@ -15,7 +15,7 @@ classes: wide
 .column {
   float: left;
   width: 50%;
-  padding: 0px;
+  padding: 0px 0px 10px 0px;
 }
 
 /* Clear floats after the columns */
@@ -36,7 +36,7 @@ classes: wide
 <body>
 <div class="row">
   <div class="column">
-    <img src="/assets/images/casimage.jpg" alt="Cas Li" style="float:left;width:500px;">
+    <img src="/assets/images/casimage.jpg" alt="Cas Li" style="width:500px;">
   </div>
   <div class="column">
     <p>
